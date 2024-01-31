@@ -15,6 +15,7 @@ git remote add origin https://github.com/rohan700709/learning_git.git
 
 # Push the "main" branch to the "origin" remote, setting it as the upstream branch
 git push -u origin main
+
 --------------------
 - git init
 - git status
