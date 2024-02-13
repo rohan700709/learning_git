@@ -34,4 +34,7 @@ git push -u origin main
 - git push
 --------------------
 - git pull origin main
+- --------------------
+- git reset --hard HEAD~1
+
 
